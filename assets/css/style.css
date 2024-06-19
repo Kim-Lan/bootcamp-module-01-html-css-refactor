@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/** Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/** Nav */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +43,18 @@ nav ul li {
     margin-left: 25px;
 }
 
+/** Links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/** Paragraphs */
 p {
     font-size: 16px;
 }
 
+/** Hero Image */
 .hero {
     margin-bottom: 25px;
 }
@@ -70,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/** Main */
 main {
     width: 75%;
     display: inline-block;
@@ -94,6 +100,7 @@ main section h2 {
     font-size: 36px;
 }
 
+/** Sidebar */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +128,7 @@ aside section img {
     max-width: 150px;
 }
 
+/** Footer */
 footer {
     padding: 30px;
     clear: both;
