@@ -86,17 +86,7 @@ main {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+aside sections {
     margin-bottom: 32px;
     color: #ffffff;
 }
