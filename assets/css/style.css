@@ -65,16 +65,6 @@ p {
     object-fit: cover;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /** Main */
 main {
     width: 75%;
@@ -98,6 +88,16 @@ main section img {
 main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /** Sidebar */
